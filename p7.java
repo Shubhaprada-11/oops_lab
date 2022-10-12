@@ -1,8 +1,6 @@
 import java.util.LinkedList;
 import java.util.Random;
 
-import cse.ThirdSem;
-
 class Market{
       LinkedList<String> l=new LinkedList<>();
       final int capacity=5;
